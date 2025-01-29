@@ -1,1 +1,1 @@
-# spring-boot-config-server
+This repository is related to employee and company microservice
